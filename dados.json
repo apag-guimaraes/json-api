@@ -99,33 +99,33 @@
     "italiano": "schiena",
     "pronuncia": "skié-na"
   },
-   {
+  {
     "portugues": "Um",
     "italiano": "uno",
     "pronuncia": "ú-no"
   },
- {
+  {
     "portugues": "Dois",
     "italiano": "due",
     "pronuncia": "dú-e"
   },
-   {
+  {
     "portugues": "Três",
     "italiano": "tre",
     "pronuncia": "trê"
   },
-   {
+  {
     "portugues": "Quatro",
     "italiano": "quattro",
     "pronuncia": "kuát-tro"
   },
-{
+  {
     "portugues": "Cinco",
     "italiano": "cinque",
     "pronuncia": "tchín-kue"
   },
   {
-    "portugues": "Seis"",
+    "portugues": "Seis",
     "italiano": "sei",
     "pronuncia": "sêi"
   },
@@ -134,12 +134,12 @@
     "italiano": "sette",
     "pronuncia": "sét-te"
   },
- {
+  {
     "portugues": "Oito",
     "italiano": "otto",
     "pronuncia": "ót-to"
   },
-{
+  {
     "portugues": "Nove",
     "italiano": "nove",
     "pronuncia": "nó-ve"
@@ -185,7 +185,7 @@
     "pronuncia": "di-tchás-sét-te"
   },
   {
-    "portugues": "Dezoito"",
+    "portugues": "Dezoito",
     "italiano": "diciotto",
     "pronuncia": "di-tchót-to"
   },
@@ -214,41 +214,41 @@
     "italiano": "ventitré",
     "pronuncia": "ven-ti-tré"
   },
-    {
+  {
     "portugues": "Vinte e quatro",
     "italiano": "ventiquattro",
     "pronuncia": "ven-ti-kuát-tro"
   },
-    {
+  {
     "portugues": "Vinte e cinco",
     "italiano": "venticinque",
     "pronuncia": "ven-ti-tchín-kue"
   },
-    {
+  {
     "portugues": "Vinte e seis",
     "italiano": "ventisei",
     "pronuncia": "ven-ti-sêi"
   },
-    {
+  {
     "portugues": "Vinte e sete",
     "italiano": "ventisette",
     "pronuncia": "ven-ti-sét-te"
   },
-    {
+  {
     "portugues": "Vinte e oito",
     "italiano": "ventotto",
     "pronuncia": "ven-tót-to"
   },
-    {
+  {
     "portugues": "Vinte e nove",
     "italiano": "ventinove",
     "pronuncia": "ven-ti-nó-ve"
   },
-    {
+  {
     "portugues": "Trinta",
     "italiano": "trenta",
     "pronuncia": "trên-ta"
-  }, 
+  },
   {
     "portugues": "Trinta e um",
     "italiano": "trentuno",
@@ -284,38 +284,42 @@
     "italiano": "trentasette",
     "pronuncia": "tren-ta-sét-te"
   },
-   {
+  {
     "portugues": "Trinta e oito",
     "italiano": "trentotto",
     "pronuncia": "tren-tót-to"
   },
-   {
+  {
     "portugues": "Trinta e nove",
     "italiano": "trentanove",
     "pronuncia": "tren-ta-nó-ve"
   },
-   {
+  {
     "portugues": "Quarenta",
     "italiano": "quaranta",
     "pronuncia": "kua-rán-ta"
-  }, {
+  },
+  {
     "portugues": "Cinquenta",
     "italiano": "cinquanta",
     "pronuncia": "tchin-kuán-ta"
-  }, {
+  },
+  {
     "portugues": "Sessenta",
     "italiano": "sessanta",
     "pronuncia": "se-sán-ta"
-  }, {
+  },
+  {
     "portugues": "Setenta",
     "italiano": "settanta",
     "pronuncia": "set-tán-ta"
-  }, {
+  },
+  {
     "portugues": "Oitenta",
     "italiano": "ottanta",
     "pronuncia": "ot-tán-ta"
   },
-{
+  {
     "portugues": "Noventa",
     "italiano": "novanta",
     "pronuncia": "no-ván-ta"
