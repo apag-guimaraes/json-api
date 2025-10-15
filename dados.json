@@ -98,8 +98,231 @@
     "portugues": "Costas",
     "italiano": "schiena",
     "pronuncia": "skié-na"
+  },
+   {
+    "portugues": "Um",
+    "italiano": "uno",
+    "pronuncia": "ú-no"
+  },
+ {
+    "portugues": "Dois",
+    "italiano": "due",
+    "pronuncia": "dú-e"
+  },
+   {
+    "portugues": "Três",
+    "italiano": "tre",
+    "pronuncia": "trê"
+  },
+   {
+    "portugues": "Quatro",
+    "italiano": "quattro",
+    "pronuncia": "kuát-tro"
+  },
+{
+    "portugues": "Cinco",
+    "italiano": "cinque",
+    "pronuncia": "tchín-kue"
+  },
+  {
+    "portugues": "Seis"",
+    "italiano": "sei",
+    "pronuncia": "sêi"
+  },
+  {
+    "portugues": "Sete",
+    "italiano": "sette",
+    "pronuncia": "sét-te"
+  },
+ {
+    "portugues": "Oito",
+    "italiano": "otto",
+    "pronuncia": "ót-to"
+  },
+{
+    "portugues": "Nove",
+    "italiano": "nove",
+    "pronuncia": "nó-ve"
+  },
+  {
+    "portugues": "Dez",
+    "italiano": "dieci",
+    "pronuncia": "diê-tchi"
+  },
+  {
+    "portugues": "Onze",
+    "italiano": "undici",
+    "pronuncia": "ún-di-tchi"
+  },
+  {
+    "portugues": "Doze",
+    "italiano": "dodici",
+    "pronuncia": "dó-di-tchi"
+  },
+  {
+    "portugues": "Treze",
+    "italiano": "tredici",
+    "pronuncia": "tré-di-tchi"
+  },
+  {
+    "portugues": "Quatorze",
+    "italiano": "quattordici",
+    "pronuncia": "kuat-tór-di-tchi"
+  },
+  {
+    "portugues": "Quinze",
+    "italiano": "quindici",
+    "pronuncia": "kuín-di-tchi"
+  },
+  {
+    "portugues": "Dezesseis",
+    "italiano": "sedici",
+    "pronuncia": "sê-di-tchi"
+  },
+  {
+    "portugues": "Dezessete",
+    "italiano": "diciassette",
+    "pronuncia": "di-tchás-sét-te"
+  },
+  {
+    "portugues": "Dezoito"",
+    "italiano": "diciotto",
+    "pronuncia": "di-tchót-to"
+  },
+  {
+    "portugues": "Dezenove",
+    "italiano": "diciannove",
+    "pronuncia": "di-tchan-nó-ve"
+  },
+  {
+    "portugues": "Vinte",
+    "italiano": "venti",
+    "pronuncia": "vên-ti"
+  },
+  {
+    "portugues": "Vinte e um",
+    "italiano": "ventuno",
+    "pronuncia": "ven-tú-no"
+  },
+  {
+    "portugues": "Vinte e dois",
+    "italiano": "ventidue",
+    "pronuncia": "ven-ti-dú-e"
+  },
+  {
+    "portugues": "Vinte e três",
+    "italiano": "ventitré",
+    "pronuncia": "ven-ti-tré"
+  },
+    {
+    "portugues": "Vinte e quatro",
+    "italiano": "ventiquattro",
+    "pronuncia": "ven-ti-kuát-tro"
+  },
+    {
+    "portugues": "Vinte e cinco",
+    "italiano": "venticinque",
+    "pronuncia": "ven-ti-tchín-kue"
+  },
+    {
+    "portugues": "Vinte e seis",
+    "italiano": "ventisei",
+    "pronuncia": "ven-ti-sêi"
+  },
+    {
+    "portugues": "Vinte e sete",
+    "italiano": "ventisette",
+    "pronuncia": "ven-ti-sét-te"
+  },
+    {
+    "portugues": "Vinte e oito",
+    "italiano": "ventotto",
+    "pronuncia": "ven-tót-to"
+  },
+    {
+    "portugues": "Vinte e nove",
+    "italiano": "ventinove",
+    "pronuncia": "ven-ti-nó-ve"
+  },
+    {
+    "portugues": "Trinta",
+    "italiano": "trenta",
+    "pronuncia": "trên-ta"
+  }, 
+  {
+    "portugues": "Trinta e um",
+    "italiano": "trentuno",
+    "pronuncia": "tren-tú-no"
+  },
+  {
+    "portugues": "Trinta e dois",
+    "italiano": "trentadue",
+    "pronuncia": "ren-ta-dú-e"
+  },
+  {
+    "portugues": "Trinta e três",
+    "italiano": "trentatré",
+    "pronuncia": "tren-ta-tré"
+  },
+  {
+    "portugues": "Trinta e quatro",
+    "italiano": "trentaquattro",
+    "pronuncia": "tren-ta-kuát-tro"
+  },
+  {
+    "portugues": "Trinta e cinco",
+    "italiano": "trentacinque",
+    "pronuncia": "tren-ta-tchín-kue"
+  },
+  {
+    "portugues": "Trinta e seis",
+    "italiano": "trentasei",
+    "pronuncia": "tren-ta-sêi"
+  },
+  {
+    "portugues": "Trinta e sete",
+    "italiano": "trentasette",
+    "pronuncia": "tren-ta-sét-te"
+  },
+   {
+    "portugues": "Trinta e oito",
+    "italiano": "trentotto",
+    "pronuncia": "tren-tót-to"
+  },
+   {
+    "portugues": "Trinta e nove",
+    "italiano": "trentanove",
+    "pronuncia": "tren-ta-nó-ve"
+  },
+   {
+    "portugues": "Quarenta",
+    "italiano": "quaranta",
+    "pronuncia": "kua-rán-ta"
+  }, {
+    "portugues": "Cinquenta",
+    "italiano": "cinquanta",
+    "pronuncia": "tchin-kuán-ta"
+  }, {
+    "portugues": "Sessenta",
+    "italiano": "sessanta",
+    "pronuncia": "se-sán-ta"
+  }, {
+    "portugues": "Setenta",
+    "italiano": "settanta",
+    "pronuncia": "set-tán-ta"
+  }, {
+    "portugues": "Oitenta",
+    "italiano": "ottanta",
+    "pronuncia": "ot-tán-ta"
+  },
+{
+    "portugues": "Noventa",
+    "italiano": "novanta",
+    "pronuncia": "no-ván-ta"
+  },
+  {
+    "portugues": "Cem",
+    "italiano": "cento",
+    "pronuncia": "tchên-to"
   }
-
-
-
 ]
