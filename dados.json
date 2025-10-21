@@ -1,163 +1,148 @@
 [
-  {
+ {
     "portugues": "Bom dia / boa tarde",
     "italiano": "buongiorno",
-    "pronuncia": ""
+    "pronuncia": "bôndjôrno"
   },
   {
     "portugues": "Boa noite",
     "italiano": "buonasera",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Boa tarde",
-    "italiano": "buon pomeriggi",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Oi / até logo",
-    "italiano": "ciao",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Me chamo",
-    "italiano": "mi chiamo",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Eu me chamo",
-    "italiano": "Io mi chiamo",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Sou brasileira",
-    "italiano": "sono brasiliana",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Tenho 2 anos",
-    "italiano": "Ho due anni",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Prazer em te conhecer",
-    "italiano": "Piacere di conoscerti",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Ser",
-    "italiano": "essere",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Como está?",
-    "italiano": "comi stai?",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Estou bem",
-    "italiano": "sto bene",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "e o senhor",
-    "italiano": "E lei",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Obrigada, pelo livro",
-    "italiano": "Grazie, per libro",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "De nada",
-    "italiano": "prego",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Não há de quê?",
-    "italiano": "non c'è di che",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "há",
-    "italiano": "ci sono",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Universidade",
-    "italiano": "università",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Comunidade",
-    "italiano": "comunità",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Sociedade",
-    "italiano": "società",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Curiosidade",
-    "italiano": "curiosità",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Possibilidade",
-    "italiano": "possibilità",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Unidade",
-    "italiano": "unità",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Liberdade",
-    "italiano": "libertà",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Piedade",
-    "italiano": "pietà",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Ansiedade",
-    "italiano": "ansietà",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Realidade",
-    "italiano": "realità",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Qualidade",
-    "italiano": "qualità",
-    "pronuncia": ""
-  },
-   {
-    "portugues": "Boa tarde",
-    "italiano": "buon pomeriggi",
-    "pronuncia": ""
+    "pronuncia": "bônassêra"
   },
   {
-    "portugues": "Personalidade",
-    "italiano": "personalità",
-    "pronuncia": "tèsta"
+    "portugues": "Boa tarde",
+    "italiano": "buon pomeriggio",
+    "pronuncia": "bômpomerídjo"
   },
-   {
-    "portugues": "Formalidade",
-    "italiano": "formalità",
-    "pronuncia": ""
+  {
+    "portugues": "Oi / até logo",
+    "italiano": "ciao",
+    "pronuncia": "tchau"
   },
-   {
-    "portugues": "Dualidade",
-    "italiano": "dualità",
-    "pronuncia": ""
+  {
+    "portugues": "Me chamo",
+    "italiano": "mi chiamo",
+    "pronuncia": "mi kiámo"
+  },
+  {
+    "portugues": "Eu me chamo",
+    "italiano": "Io mi chiamo",
+    "pronuncia": "io mi kiámo"
+  },
+  {
+    "portugues": "Sou brasileira",
+    "italiano": "sono brasiliana",
+    "pronuncia": "sôno brazilána"
+  },
+  {
+    "portugues": "Tenho 2 anos",
+    "italiano": "Ho due anni",
+    "pronuncia": "ô dûe ani"
+  },
+  {
+    "portugues": "Prazer em te conhecer",
+    "italiano": "Piacere di conoscerti",
+    "pronuncia": "piatchêre di konôshertí"
+  },
+  {
+    "portugues": "Ser",
+    "italiano": "essere",
+    "pronuncia": "és-sere"
+  },
+  {
+    "portugues": "Como está?",
+    "italiano": "come stai?",
+    "pronuncia": "kôme stái?"
+  },
+  {
+    "portugues": "Estou bem",
+    "italiano": "sto bene",
+    "pronuncia": "stô bêne"
+  },
+  {
+    "portugues": "e o senhor",
+    "italiano": "E lei",
+    "pronuncia": "ê lêi"
+  },
+  {
+    "portugues": "Obrigada, pelo livro",
+    "italiano": "Grazie, per il libro",
+    "pronuncia": "grátzie per il líbro"
+  },
+  {
+    "portugues": "De nada",
+    "italiano": "prego",
+    "pronuncia": "prégo"
+  },
+  {
+    "portugues": "Não há de quê?",
+    "italiano": "non c'è di che",
+    "pronuncia": "non tchê di kê"
+  },
+  {
+    "portugues": "há",
+    "italiano": "ci sono",
+    "pronuncia": "tchi sòno"
+  },
+  {
+    "portugues": "Universidade",
+    "italiano": "università",
+    "pronuncia": "univèrsitá"
+  },
+  {
+    "portugues": "Comunidade",
+    "italiano": "comunità",
+    "pronuncia": "comunitá"
+  },
+  {
+    "portugues": "Sociedade",
+    "italiano": "società",
+    "pronuncia": "sôtchetá"
+  },
+  {
+    "portugues": "Curiosidade",
+    "italiano": "curiosità",
+    "pronuncia": "curiozitá"
+  },
+  {
+    "portugues": "Possibilidade",
+    "italiano": "possibilità",
+    "pronuncia": "possibilitá"
+  },
+  {
+    "portugues": "Unidade",
+    "italiano": "unità",
+    "pronuncia": "unitá"
+  },
+  {
+    "portugues": "Liberdade",
+    "italiano": "libertà",
+    "pronuncia": "libertá"
+  },
+  {
+    "portugues": "Piedade",
+    "italiano": "pietà",
+    "pronuncia": "pi-etá"
+  },
+  {
+    "portugues": "Ansiedade",
+    "italiano": "ansietà",
+    "pronuncia": "ansietá"
+  },
+  {
+    "portugues": "Realidade",
+    "italiano": "realità",
+    "pronuncia": "realitá"
+  },
+  {
+    "portugues": "Qualidade",
+    "italiano": "qualità",
+    "pronuncia": "qualitá"
+  },
+  {
+    "portugues": "Boa tarde",
+    "italiano": "buon pomeriggio",
+    "pronuncia": "bômpomerídjo"
   },
   {
     "portugues": "Cabelo",
