@@ -1,4 +1,470 @@
 [
+  {
+    "portugues": "Pai",
+    "italiano": "padre",
+    "pronuncia": "pádre"
+  },
+  {
+    "portugues": "Mãe",
+    "italiano": "madre",
+    "pronuncia": "mádre"
+  },
+  {
+    "portugues": "Irmão",
+    "italiano": "fratello",
+    "pronuncia": "fratêlo"
+  },
+  {
+    "portugues": "Irmã",
+    "italiano": "sorella",
+    "pronuncia": "soréla"
+  },
+  {
+    "portugues": "Avô",
+    "italiano": "nonno",
+    "pronuncia": "nôno"
+  },
+  {
+    "portugues": "Avó",
+    "italiano": "nonna",
+    "pronuncia": "nôna"
+  },
+  {
+    "portugues": "Tio",
+    "italiano": "zio",
+    "pronuncia": "tsío"
+  },
+  {
+    "portugues": "Tia",
+    "italiano": "zia",
+    "pronuncia": "tsía"
+  },
+  {
+    "portugues": "Primo",
+    "italiano": "cugino",
+    "pronuncia": "cudjino"
+  },
+  {
+    "portugues": "Prima",
+    "italiano": "cugina",
+    "pronuncia": "cudjina"
+  },
+  {
+    "portugues": "Filho",
+    "italiano": "figlio",
+    "pronuncia": "fílhio"
+  },
+  {
+    "portugues": "Filha",
+    "italiano": "figlia",
+    "pronuncia": "fílhia"
+  },
+
+  // ======= ARTIGOS DEFINIDOS =======
+  {
+    "portugues": "o (masculino singular)",
+    "italiano": "il",
+    "pronuncia": "il"
+  },
+  {
+    "portugues": "o (antes de s+consoante ou z)",
+    "italiano": "lo",
+    "pronuncia": "ló"
+  },
+  {
+    "portugues": "o (antes de vogal)",
+    "italiano": "l'",
+    "pronuncia": "l"
+  },
+  {
+    "portugues": "os (masculino plural)",
+    "italiano": "i",
+    "pronuncia": "i"
+  },
+  {
+    "portugues": "os (antes de s+consoante ou z)",
+    "italiano": "gli",
+    "pronuncia": "li"
+  },
+  {
+    "portugues": "a (feminino singular)",
+    "italiano": "la",
+    "pronuncia": "lá"
+  },
+  {
+    "portugues": "as (feminino plural)",
+    "italiano": "le",
+    "pronuncia": "lé"
+  },
+  {
+    "portugues": "um (masculino)",
+    "italiano": "un",
+    "pronuncia": "un"
+  },
+  {
+    "portugues": "um (antes de s+consoante ou z)",
+    "italiano": "uno",
+    "pronuncia": "úno"
+  },
+  {
+    "portugues": "uma (feminino)",
+    "italiano": "una",
+    "pronuncia": "úna"
+  },
+  {
+    "portugues": "uma (antes de vogal)",
+    "italiano": "un'",
+    "pronuncia": "un"
+  },
+  {
+    "portugues": "meu / minha",
+    "italiano": "mio / mia",
+    "pronuncia": "mio / mia"
+  },
+  {
+    "portugues": "teu / tua",
+    "italiano": "tuo / tua",
+    "pronuncia": "tuo / tua"
+  },
+  {
+    "portugues": "seu / sua",
+    "italiano": "suo / sua",
+    "pronuncia": "suo / sua"
+  },
+  {
+    "portugues": "nosso / nossa",
+    "italiano": "nostro / nostra",
+    "pronuncia": "nôstro / nôstra"
+  },
+  {
+    "portugues": "vosso / vossa",
+    "italiano": "vostro / vostra",
+    "pronuncia": "vôstro / vôstra"
+  },
+  {
+    "portugues": "deles / delas",
+    "italiano": "loro",
+    "pronuncia": "lôro"
+  },
+  {
+    "portugues": "nação",
+    "italiano": "nazione",
+    "pronuncia": "natsiónê"
+  },
+  {
+    "portugues": "informação",
+    "italiano": "informazione",
+    "pronuncia": "informatsiónê"
+  },
+  {
+    "portugues": "educação",
+    "italiano": "educazione",
+    "pronuncia": "educatsiónê"
+  },
+  {
+    "portugues": "decisão",
+    "italiano": "decisione",
+    "pronuncia": "detchisionê"
+  },
+  {
+    "portugues": "televisão",
+    "italiano": "televisione",
+    "pronuncia": "televiziónê"
+  },
+  {
+    "portugues": "A",
+    "italiano": "a",
+    "pronuncia": "a"
+  },
+  {
+    "portugues": "B",
+    "italiano": "bi",
+    "pronuncia": "bi"
+  },
+  {
+    "portugues": "C",
+    "italiano": "ci",
+    "pronuncia": "tchi"
+  },
+  {
+    "portugues": "D",
+    "italiano": "di",
+    "pronuncia": "di"
+  },
+  {
+    "portugues": "E",
+    "italiano": "e",
+    "pronuncia": "ê"
+  },
+  {
+    "portugues": "F",
+    "italiano": "effe",
+    "pronuncia": "éfe"
+  },
+  {
+    "portugues": "G",
+    "italiano": "gi",
+    "pronuncia": "dji"
+  },
+  {
+    "portugues": "H",
+    "italiano": "acca",
+    "pronuncia": "áka"
+  },
+  {
+    "portugues": "I",
+    "italiano": "i",
+    "pronuncia": "i"
+  },
+  {
+    "portugues": "L",
+    "italiano": "elle",
+    "pronuncia": "éle"
+  },
+  {
+    "portugues": "M",
+    "italiano": "emme",
+    "pronuncia": "éme"
+  },
+  {
+    "portugues": "N",
+    "italiano": "enne",
+    "pronuncia": "éne"
+  },
+  {
+    "portugues": "O",
+    "italiano": "o",
+    "pronuncia": "ô"
+  },
+  {
+    "portugues": "P",
+    "italiano": "pi",
+    "pronuncia": "pi"
+  },
+  {
+    "portugues": "Q",
+    "italiano": "cu",
+    "pronuncia": "ku"
+  },
+  {
+    "portugues": "R",
+    "italiano": "erre",
+    "pronuncia": "érre"
+  },
+  {
+    "portugues": "S",
+    "italiano": "esse",
+    "pronuncia": "ésse"
+  },
+  {
+    "portugues": "T",
+    "italiano": "ti",
+    "pronuncia": "ti"
+  },
+  {
+    "portugues": "U",
+    "italiano": "u",
+    "pronuncia": "u"
+  },
+  {
+    "portugues": "V",
+    "italiano": "vi / vu",
+    "pronuncia": "vi / vu"
+  },
+  {
+    "portugues": "Z",
+    "italiano": "zeta",
+    "pronuncia": "tséta"
+  },
+  {
+    "portugues": "vermelho",
+    "italiano": "rosso",
+    "pronuncia": "rôsso"
+  },
+  {
+    "portugues": "azul",
+    "italiano": "blu",
+    "pronuncia": "blu"
+  },
+  {
+    "portugues": "verde",
+    "italiano": "verde",
+    "pronuncia": "vérde"
+  },
+  {
+    "portugues": "amarelo",
+    "italiano": "giallo",
+    "pronuncia": "djál-lo"
+  },
+  {
+    "portugues": "preto",
+    "italiano": "nero",
+    "pronuncia": "nêro"
+  },
+  {
+    "portugues": "branco",
+    "italiano": "bianco",
+    "pronuncia": "biánco"
+  },
+  {
+    "portugues": "cinza",
+    "italiano": "grigio",
+    "pronuncia": "grídjo"
+  },
+  {
+    "portugues": "rosa",
+    "italiano": "rosa",
+    "pronuncia": "rósa"
+  },
+  {
+    "portugues": "laranja",
+    "italiano": "arancione",
+    "pronuncia": "arantsiónê"
+  },
+  {
+    "portugues": "roxo",
+    "italiano": "viola",
+    "pronuncia": "viôla"
+  },
+  {
+    "portugues": "eu",
+    "italiano": "io",
+    "pronuncia": "io"
+  },
+  {
+    "portugues": "tu",
+    "italiano": "tu",
+    "pronuncia": "tu"
+  },
+  {
+    "portugues": "ele / ela",
+    "italiano": "lui / lei",
+    "pronuncia": "lui / lei"
+  },
+  {
+    "portugues": "nós",
+    "italiano": "noi",
+    "pronuncia": "noi"
+  },
+  {
+    "portugues": "vós / vocês",
+    "italiano": "voi",
+    "pronuncia": "voi"
+  },
+  {
+    "portugues": "eles / elas",
+    "italiano": "loro",
+    "pronuncia": "lôro"
+  },
+  {
+    "portugues": "duzentos",
+    "italiano": "duecento",
+    "pronuncia": "duetchênto"
+  },
+  {
+    "portugues": "mil",
+    "italiano": "mille",
+    "pronuncia": "mílle"
+  },
+  {
+    "portugues": "segunda-feira",
+    "italiano": "lunedì",
+    "pronuncia": "lunedi"
+  },
+  {
+    "portugues": "terça-feira",
+    "italiano": "martedì",
+    "pronuncia": "martedi"
+  },
+  {
+    "portugues": "quarta-feira",
+    "italiano": "mercoledì",
+    "pronuncia": "mércoledi"
+  },
+  {
+    "portugues": "quinta-feira",
+    "italiano": "giovedì",
+    "pronuncia": "djôvedi"
+  },
+  {
+    "portugues": "sexta-feira",
+    "italiano": "venerdì",
+    "pronuncia": "venérdi"
+  },
+  {
+    "portugues": "sábado",
+    "italiano": "sabato",
+    "pronuncia": "sábato"
+  },
+  {
+    "portugues": "domingo",
+    "italiano": "domenica",
+    "pronuncia": "domênica"
+  },
+
+  // ======= MESES DO ANO =======
+  {
+    "portugues": "janeiro",
+    "italiano": "gennaio",
+    "pronuncia": "djennáio"
+  },
+  {
+    "portugues": "fevereiro",
+    "italiano": "febbraio",
+    "pronuncia": "febbráio"
+  },
+  {
+    "portugues": "março",
+    "italiano": "marzo",
+    "pronuncia": "mártso"
+  },
+  {
+    "portugues": "abril",
+    "italiano": "aprile",
+    "pronuncia": "apríle"
+  },
+  {
+    "portugues": "maio",
+    "italiano": "maggio",
+    "pronuncia": "mádjo"
+  },
+  {
+    "portugues": "junho",
+    "italiano": "giugno",
+    "pronuncia": "djúnho"
+  },
+  {
+    "portugues": "julho",
+    "italiano": "luglio",
+    "pronuncia": "lúlhio"
+  },
+  {
+    "portugues": "agosto",
+    "italiano": "agosto",
+    "pronuncia": "agôsto"
+  },
+  {
+    "portugues": "setembro",
+    "italiano": "settembre",
+    "pronuncia": "settêmbre"
+  },
+  {
+    "portugues": "outubro",
+    "italiano": "ottobre",
+    "pronuncia": "ottôbre"
+  },
+  {
+    "portugues": "novembro",
+    "italiano": "novembre",
+    "pronuncia": "novêmbre"
+  },
+  {
+    "portugues": "dezembro",
+    "italiano": "dicembre",
+    "pronuncia": "ditchêmbre"
+  }
+,
+
  {
     "portugues": "Bom dia / boa tarde",
     "italiano": "buongiorno",
