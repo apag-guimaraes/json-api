@@ -1,5 +1,221 @@
 [
   {
+    "portugues": "Quanto custa?",
+    "italiano": "quanto costa?",
+    "pronuncia": "kuánto cósta"
+  },
+  {
+    "portugues": "Onde fica o banheiro?",
+    "italiano": "dov’è il bagno?",
+    "pronuncia": "dové il bânho"
+  },
+  {
+    "portugues": "Eu quero isso",
+    "italiano": "voglio questo",
+    "pronuncia": "vôlhio qüêsto"
+  },
+  {
+    "portugues": "Eu não entendo",
+    "italiano": "non capisco",
+    "pronuncia": "non capísco"
+  },
+  {
+    "portugues": "Você fala português?",
+    "italiano": "parli portoghese?",
+    "pronuncia": "párli portoguêze"
+  },
+  {
+    "portugues": "Você fala inglês?",
+    "italiano": "parli inglese?",
+    "pronuncia": "párli inglêze"
+  },
+  {
+    "portugues": "Pode me ajudar?",
+    "italiano": "puoi aiutarmi?",
+    "pronuncia": "puôi aiutármi"
+  },
+  {
+    "portugues": "Estou perdido(a)",
+    "italiano": "mi sono perso / persa",
+    "pronuncia": "mi sôno pérso / pérsa"
+  },
+  {
+    "portugues": "Preciso de um táxi",
+    "italiano": "ho bisogno di un taxi",
+    "pronuncia": "ô bizônho di un táxi"
+  },
+  {
+    "portugues": "Onde fica a estação de trem?",
+    "italiano": "dov’è la stazione?",
+    "pronuncia": "dové la statsiónê"
+  },
+  {
+    "portugues": "Onde fica o hotel?",
+    "italiano": "dov’è l’hotel?",
+    "pronuncia": "dové lotél"
+  },
+  {
+    "portugues": "Traga a conta, por favor",
+    "italiano": "il conto, per favore",
+    "pronuncia": "il cônto, per favôre"
+  },
+  {
+    "portugues": "A comida estava deliciosa",
+    "italiano": "il cibo era delizioso",
+    "pronuncia": "il tchíbo éra delitsiôzo"
+  },
+  {
+    "portugues": "Pode repetir, por favor?",
+    "italiano": "puoi ripetere, per favore?",
+    "pronuncia": "puôi ripétére, per favôre"
+  },
+  {
+    "portugues": "Eu gostaria de um café",
+    "italiano": "vorrei un caffè",
+    "pronuncia": "vorréi un kafé"
+  },
+  {
+    "portugues": "Eu gostaria de água",
+    "italiano": "vorrei dell’acqua",
+    "pronuncia": "vorréi deláqua"
+  },
+  {
+    "portugues": "Onde posso comprar um bilhete?",
+    "italiano": "dove posso comprare un biglietto?",
+    "pronuncia": "dôve pósso compráre un bilhétto"
+  },
+  {
+    "portugues": "Que horas são?",
+    "italiano": "che ora è?",
+    "pronuncia": "ke ôra é"
+  },
+  {
+    "portugues": "Hoje",
+    "italiano": "oggi",
+    "pronuncia": "ódji"
+  },
+  {
+    "portugues": "Amanhã",
+    "italiano": "domani",
+    "pronuncia": "domâni"
+  },
+  {
+    "portugues": "Ontem",
+    "italiano": "ieri",
+    "pronuncia": "iéri"
+  },
+  {
+    "portugues": "Estou com fome",
+    "italiano": "ho fame",
+    "pronuncia": "ô fáme"
+  },
+  {
+    "portugues": "Estou com sede",
+    "italiano": "ho sete",
+    "pronuncia": "ô séte"
+  },
+  {
+    "portugues": "Estou cansado(a)",
+    "italiano": "sono stanco / stanca",
+    "pronuncia": "sôno stânco / stânca"
+  },
+  {
+    "portugues": "Estou com sono",
+    "italiano": "ho sonno",
+    "pronuncia": "ô sònno"
+  },
+  {
+    "portugues": "Está tudo bem",
+    "italiano": "va bene",
+    "pronuncia": "va béné"
+  },
+  {
+    "portugues": "Não tem problema",
+    "italiano": "non c’è problema",
+    "pronuncia": "non tchê problemâ"
+  },
+  {
+    "portugues": "Eu te amo",
+    "italiano": "ti amo",
+    "pronuncia": "ti âmo"
+  },
+  {
+    "portugues": "Saúde! (ao brindar)",
+    "italiano": "salute!",
+    "pronuncia": "salúte"
+  },
+  {
+    "portugues": "Feliz aniversário!",
+    "italiano": "buon compleanno!",
+    "pronuncia": "buôn complêanno"
+  },
+  {
+    "portugues": "Oi / Ei",
+    "italiano": "ehi",
+    "pronuncia": "êi"
+  },
+  {
+    "portugues": "Tchau / Adeus",
+    "italiano": "arrivederci",
+    "pronuncia": "arrivedértchi"
+  },
+  {
+    "portugues": "Até amanhã",
+    "italiano": "a domani",
+    "pronuncia": "a domâni"
+  },
+  {
+    "portugues": "Boa noite",
+    "italiano": "buonanotte",
+    "pronuncia": "bôanôtte"
+  },
+  {
+    "portugues": "Por favor",
+    "italiano": "per favore",
+    "pronuncia": "per favôre"
+  },
+  {
+    "portugues": "Com licença",
+    "italiano": "permesso",
+    "pronuncia": "permêsso"
+  },
+  {
+    "portugues": "Desculpe / Sinto muito",
+    "italiano": "mi dispiace",
+    "pronuncia": "mi dispíatche"
+  },
+  {
+    "portugues": "Tudo bem?",
+    "italiano": "tutto bene?",
+    "pronuncia": "tútto béné"
+  },
+  {
+    "portugues": "Estou bem, obrigado(a)",
+    "italiano": "sto bene, grazie",
+    "pronuncia": "stô béné, grát-tsie"
+  },
+  {
+    "portugues": "Qual é o seu nome?",
+    "italiano": "come ti chiami?",
+    "pronuncia": "cô-me ti kiámi"
+  },
+  {
+    "portugues": "De onde você é?",
+    "italiano": "di dove sei?",
+    "pronuncia": "di dôve sêi"
+  },
+  {
+    "portugues": "Sou do Brasil",
+    "italiano": "sono del Brasile",
+    "pronuncia": "sôno del Brazíle"
+  },
+  {
+    "portugues": "Bem-vindo(a)",
+    "italiano": "benvenuto / benvenuta",
+    "pronuncia": "bênvenúto / bênvenúta"
+  }
+,
+  {
     "portugues": "Pai",
     "italiano": "padre",
     "pronuncia": "pádre"
