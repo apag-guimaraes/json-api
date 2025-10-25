@@ -24,7 +24,7 @@
   { "portugues": "K", "italiano": "Kappa", "pronuncia": "káp-pa" },
   { "portugues": "W", "italiano": "Doppia vu", "pronuncia": "dóp-pia vu" },
   { "portugues": "X", "italiano": "Ics", "pronuncia": "íks" },
-  { "portugues": "Y", "italiano": "Ipsilon" ou "I greca", "pronuncia": "íp-si-lon / i gré-ka" },
+  { "portugues": "Y", "italiano": "Ipsilon" ou "I greca", "pronuncia": "íp-si-lon" },
   { "portugues": "Cento e vinte", "italiano": "centoventi", "pronuncia": "tchén-to-vên-ti" },
   { "portugues": "Cento e trinta", "italiano": "centotrenta", "pronuncia": "tchén-to-trên-ta" },
   { "portugues": "Cento e quarenta", "italiano": "centoquaranta", "pronuncia": "tchén-to-kua-rán-ta" },
@@ -80,9 +80,7 @@
     "portugues": "Trilhões",
     "italiano": "bilioni",
     "pronuncia": "bi-liô-ni"
-  }
-  
-
+  },  
   {
     "portugues": "Branco",
     "italiano": "bianco",
@@ -858,9 +856,7 @@
     "portugues": "dezembro",
     "italiano": "dicembre",
     "pronuncia": "ditchêmbre"
-  }
-,
-
+  },
  {
     "portugues": "Bom dia / boa tarde",
     "italiano": "buongiorno",
