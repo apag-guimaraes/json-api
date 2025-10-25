@@ -1,4 +1,162 @@
 [
+  { "portugues": "Cento e vinte", "italiano": "centoventi", "pronuncia": "tchén-to-vên-ti" },
+  { "portugues": "Cento e trinta", "italiano": "centotrenta", "pronuncia": "tchén-to-trên-ta" },
+  { "portugues": "Cento e quarenta", "italiano": "centoquaranta", "pronuncia": "tchén-to-kua-rán-ta" },
+  { "portugues": "Cento e cinquenta", "italiano": "centocinquanta", "pronuncia": "tchén-to-tchin-kuán-ta" },
+  { "portugues": "Cento e sessenta", "italiano": "centosessanta", "pronuncia": "tchén-to-ses-sán-ta" },
+  { "portugues": "Cento e setenta", "italiano": "centosettanta", "pronuncia": "tchén-to-set-tán-ta" },
+  { "portugues": "Cento e oitenta", "italiano": "centottanta", "pronuncia": "tchén-tot-tán-ta" },
+  { "portugues": "Cento e noventa", "italiano": "centonovanta", "pronuncia": "tchén-to-no-ván-ta" },
+  { "portugues": "Duzentos", "italiano": "duecento", "pronuncia": "du-e-tchén-to" },
+  { "portugues": "Duzentos e dez", "italiano": "duecentodieci", "pronuncia": "du-e-tchén-to-diê-tchi" },
+  { "portugues": "Duzentos e vinte", "italiano": "duecentoventi", "pronuncia": "du-e-tchén-to-vên-ti" },
+  { "portugues": "Duzentos e trinta", "italiano": "duecentotrenta", "pronuncia": "du-e-tchén-to-trên-ta" },
+  { "portugues": "Duzentos e quarenta", "italiano": "duecentoquaranta", "pronuncia": "du-e-tchén-to-kua-rán-ta" },
+  { "portugues": "Duzentos e cinquenta", "italiano": "duecentocinquanta", "pronuncia": "du-e-tchén-to-tchin-kuán-ta" },
+  { "portugues": "Duzentos e sessenta", "italiano": "duecentosessanta", "pronuncia": "du-e-tchén-to-ses-sán-ta" },
+  { "portugues": "Duzentos e setenta", "italiano": "duecentosettanta", "pronuncia": "du-e-tchén-to-set-tán-ta" },
+  { "portugues": "Duzentos e oitenta", "italiano": "duecentottanta", "pronuncia": "du-e-tchén-tot-tán-ta" },
+  { "portugues": "Duzentos e noventa", "italiano": "duecentonovanta", "pronuncia": "du-e-tchén-to-no-ván-ta" },
+  { "portugues": "Trezentos", "italiano": "trecento", "pronuncia": "tré-tchén-to" },
+  { "portugues": "Quatrocentos", "italiano": "quattrocento", "pronuncia": "kuát-tro-tchén-to" },
+  { "portugues": "Quinhentos", "italiano": "cinquecento", "pronuncia": "tchin-kue-tchén-to" },
+  { "portugues": "Seiscentos", "italiano": "seicento", "pronuncia": "sêi-tchén-to" },
+  { "portugues": "Setecentos", "italiano": "settecento", "pronuncia": "set-te-tchén-to" },
+  { "portugues": "Oitocentos", "italiano": "ottocento", "pronuncia": "ot-to-tchén-to" },
+  { "portugues": "Novecentos", "italiano": "novecento", "pronuncia": "no-ve-tchén-to" },
+  { "portugues": "Mil", "italiano": "mille", "pronuncia": "míl-le" },
+  {
+    "portugues": "Milhão",
+    "italiano": "milione",
+    "pronuncia": "mi-liô-ne"
+  },
+  {
+    "portugues": "Milhões",
+    "italiano": "milioni",
+    "pronuncia": "mi-liô-ni"
+  },
+  {
+    "portugues": "Bilhão",
+    "italiano": "miliardo",
+    "pronuncia": "mi-liár-do"
+  },
+  {
+    "portugues": "Bilhões",
+    "italiano": "miliardi",
+    "pronuncia": "mi-liár-di"
+  },
+  {
+    "portugues": "Trilhão",
+    "italiano": "bilione",
+    "pronuncia": "bi-liô-ne"
+  },
+  {
+    "portugues": "Trilhões",
+    "italiano": "bilioni",
+    "pronuncia": "bi-liô-ni"
+  }
+  
+
+  {
+    "portugues": "Branco",
+    "italiano": "bianco",
+    "pronuncia": "bián-ko"
+  },
+  {
+    "portugues": "Preto",
+    "italiano": "nero",
+    "pronuncia": "né-ro"
+  },
+  {
+    "portugues": "Cinza",
+    "italiano": "grigio",
+    "pronuncia": "grí-djo"
+  },
+  {
+    "portugues": "Vermelho",
+    "italiano": "rosso",
+    "pronuncia": "rós-so"
+  },
+  {
+    "portugues": "Verde",
+    "italiano": "verde",
+    "pronuncia": "vér-de"
+  },
+  {
+    "portugues": "Azul",
+    "italiano": "blu",
+    "pronuncia": "blu"
+  },
+  {
+    "portugues": "Amarelo",
+    "italiano": "giallo",
+    "pronuncia": "djál-lo"
+  },
+  {
+    "portugues": "Laranja",
+    "italiano": "arancione",
+    "pronuncia": "a-ran-tchó-ne"
+  },
+  {
+    "portugues": "Rosa",
+    "italiano": "rosa",
+    "pronuncia": "ró-sa"
+  },
+  {
+    "portugues": "Roxo",
+    "italiano": "viola",
+    "pronuncia": "vi-ó-la"
+  },
+  {
+    "portugues": "Marrom",
+    "italiano": "marrone",
+    "pronuncia": "mar-ró-ne"
+  },
+  {
+    "portugues": "Bege",
+    "italiano": "beige",
+    "pronuncia": "béj"
+  },
+  {
+    "portugues": "Dourado",
+    "italiano": "dorato",
+    "pronuncia": "do-rá-to"
+  },
+  {
+    "portugues": "Prateado",
+    "italiano": "argentato",
+    "pronuncia": "ar-djen-tá-to"
+  },
+  {
+    "portugues": "Turquesa",
+    "italiano": "turchese",
+    "pronuncia": "tur-ké-ze"
+  },
+  {
+    "portugues": "Lilás",
+    "italiano": "lilla",
+    "pronuncia": "líl-la"
+  },
+  {
+    "portugues": "Vinho",
+    "italiano": "bordeaux",
+    "pronuncia": "bor-dô"
+  },
+  {
+    "portugues": "Azul-claro",
+    "italiano": "azzurro",
+    "pronuncia": "ad-zúr-ro"
+  },
+  {
+    "portugues": "Azul-escuro",
+    "italiano": "blu scuro",
+    "pronuncia": "blu skú-ro"
+  },
+  {
+    "portugues": "Verde-claro",
+    "italiano": "verde chiaro",
+    "pronuncia": "vér-de kiá-ro"
+  }
   {
     "portugues": "Quanto custa?",
     "italiano": "quanto costa?",
