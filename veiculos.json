@@ -1,0 +1,103 @@
+//dados fictícios
+[
+  {
+    "placa": "ABC1D23",
+    "proprietario": "Ana Paula",
+    "veiculo": "Honda Civic"
+  },
+  {
+    "placa": "XYZ9W88",
+    "proprietario": "João Silva",
+    "veiculo": "Toyota Corolla"
+  },
+  {
+    "placa": "KTM4E12",
+    "proprietario": "Carlos Eduardo",
+    "veiculo": "Jeep Renegade"
+  },
+  {
+    "placa": "QWE5R43",
+    "proprietario": "Mariana Souza",
+    "veiculo": "Hyundai Creta"
+  },
+  {
+    "placa": "JKL8H90",
+    "proprietario": "Lucas Oliveira",
+    "veiculo": "Volkswagen T-Cross"
+  },
+  {
+    "placa": "MNO2P11",
+    "proprietario": "Beatriz Lima",
+    "veiculo": "Chevrolet Tracker"
+  },
+  {
+    "placa": "RST7U65",
+    "proprietario": "Gabriel Ferreira",
+    "veiculo": "Fiat Pulse"
+  },
+  {
+    "placa": "VWX3Z34",
+    "proprietario": "Camila Ribeiro",
+    "veiculo": "Nissan Kicks"
+  },
+  {
+    "placa": "BR77K99",
+    "proprietario": "Rafael Martins",
+    "veiculo": "Toyota Hilux"
+  },
+  {
+    "placa": "TO22X55",
+    "proprietario": "Juliana Costa",
+    "veiculo": "Chevrolet Onix"
+  },
+  {
+    "placa": "GO10A01",
+    "proprietario": "Bruno Alves",
+    "veiculo": "Volkswagen Gol"
+  },
+  {
+    "placa": "PAL8B20",
+    "proprietario": "Fernanda Dias",
+    "veiculo": "Fiat Argo"
+  },
+  {
+    "placa": "MS44C78",
+    "proprietario": "Thiago Mendes",
+    "veiculo": "Jeep Compass"
+  },
+  {
+    "placa": "MT99D33",
+    "proprietario": "Larissa Rocha",
+    "veiculo": "Renault Duster"
+  },
+  {
+    "placa": "DF55E66",
+    "proprietario": "Rodrigo Cardoso",
+    "veiculo": "Volkswagen Nivus"
+  },
+  {
+    "placa": "SP12F89",
+    "proprietario": "Patrícia Nogueira",
+    "veiculo": "Honda HR-V"
+  },
+  {
+    "placa": "RJ34G21",
+    "proprietario": "Marcelo Vieira",
+    "veiculo": "Fiat Fastback"
+  },
+  {
+    "placa": "MG56H45",
+    "proprietario": "Vanessa Freitas",
+    "veiculo": "Hyundai HB20"
+  },
+  {
+    "placa": "PR78J77",
+    "proprietario": "Eduardo Ramos",
+    "veiculo": "Toyota Corolla Cross"
+  },
+  {
+    "placa": "SC90L88",
+    "proprietario": "Tatiane Castro",
+    "veiculo": "Caoa Chery Tiggo 7"
+  }
+]
